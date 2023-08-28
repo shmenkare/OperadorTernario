@@ -1,13 +1,10 @@
 OperadorTernario.csproj
-
 OperadorTernario.sln
-
 OperadorTernario.suo
-
 Properties/
-
 bin/
-
 obj/
+App.config
+.vs/
 
 
